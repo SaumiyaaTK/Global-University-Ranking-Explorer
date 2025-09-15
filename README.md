@@ -63,12 +63,17 @@ The interactive dashboard helps users explore global higher education trends, co
 
 ---
 
-## 📧 Author
-- **Created by:** [Saumiyaa]  
-  
+## 📂 Attachments 📎  
+- 📑 [Tableau Dashboard](Dashboard/) → Tableau`.twb` file 📂  
+- 🖼️ [Dashboard Screenshot](Screenshot/) → Preview images 🖼️  
+- 📊 [Global University Ranking Dataset](Dataset/) → Dataset from Kaggle 🏅
+   
+---
+
+## 👤 Author ✍️  
+**Saumiyaa T K**  
+🔗 [LinkedIn](https://www.linkedin.com/in/saumiyaa-t-k) | 💻 [GitHub](https://github.com/SaumiyaaTK)  
 
 ---
 
-## Attachments
-- 
 ⭐ If you like this project, don’t forget to give it a star on GitHub!

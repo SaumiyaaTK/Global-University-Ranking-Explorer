@@ -1,5 +1,9 @@
 # 🎓 Global University Rankings Explorer (2016–2025)
 
+<div align="center">
+  <img src="https://github.com/SaumiyaaTK/Global-University-Ranking-Explorer/blob/main/Ranking Screenshot.png" alt="Global-University-Ranking-Explorer">
+</div>
+
 ## 📊 Project Overview
 This project visualizes the **Times Higher Education (THE) World University Rankings (2016–2025)** using **Tableau**.  
 The interactive dashboard helps users explore global higher education trends, compare universities, and analyze performance metrics across countries and years.

@@ -68,8 +68,8 @@ The interactive dashboard helps users explore global higher education trends, co
 ---
 
 ## 📂 Attachments 📎  
-- 📑 [Tableau Dashboard](Dashboard/) → Tableau`.twb` file 📂  
-- 📊 [Global University Ranking Dataset](Dataset/) → Dataset from Kaggle 🏅
+- [Tableau Dashboard](Dashboard/) → Tableau`.twb` file 
+- [Global University Ranking Dataset](Dataset/) → Dataset from Kaggle �
    
 ---
 
